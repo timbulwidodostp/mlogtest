@@ -1,0 +1,4 @@
+D 'mss': Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
+D
+F mss.ado
+F mss.sthlp
