@@ -2,4 +2,4 @@
 1
 2
 3
-p mss Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
+p mlogtest Tests for mlogit (Multinomial (polytomous) logistic regression) Use mlogtest With STATA 19
