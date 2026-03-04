@@ -1,6 +1,8 @@
 # mlogtest
 Tests for mlogit (Multinomial (polytomous) logistic regression) Use mlogtest With STATA 19
 
+https://www.youtube.com/watch?v=Zf28zm62rgw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
